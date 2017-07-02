@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>vctemplate</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>    /// MARK: - Properties
+    // MARK: IBOutlet
+
+    // MARK: Internal
+
+    // MARK: File private
+
+    /// MARK: - Lifecycle
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        self.setupViews()
+        self.setupActions()
+    }
+
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+
+    }
+
+    override func viewWillLayoutSubviews() {
+        super.viewWillLayoutSubviews()
+
+    }
+
+    override func viewDidLayoutSubviews() {
+        super.viewDidLayoutSubviews()
+        self.setupSubviews()
+
+    }
+
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+
+    }
+
+    override func viewWillDisappear(_ animated: Bool) {
+        super.viewWillDisappear(animated)
+
+    }
+
+    override func viewDidDisappear(_ animated: Bool) {
+        super.viewDidDisappear(animated)
+        
+    }
+
+    /// MARK: - Methods
+
+    // MARK: Internal
+
+    // MARK: File private
+    func setupViews() {
+        // Initialize view object e.g. hidden property
+    }
+
+    func setupActions() {
+        // Initialize action e.g. touch event
+    }
+
+    func setupSubviews() {
+        // Initialize view object depends on subview layout e.g. cornerRadius
+    }</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>409B3B3E-4711-4852-85F6-7CCA57B7865C</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>View Controller template</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>View Controller Template</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>

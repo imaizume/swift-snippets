@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>vcmethod</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>    /// MARK: - Methods
+
+    // MARK: Internal
+
+    // MARK: File private
+    func setupViews() {
+        // Initialize view object e.g. hidden property
+    }
+
+    func setupActions() {
+        // Initialize action e.g. touch event
+    }
+
+    func setupSubviews() {
+        // Initialize view object depends on subview layout e.g. cornerRadius
+    }
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>38BFEE76-D362-4940-BC00-72A815A93B4C</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>View Controller method template</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>View Controller Method</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
