@@ -1,4 +1,7 @@
 # Swift Snippets
+
+![video](https://raw.githubusercontent.com/imaizume/swift-snippets/master/assets/swift-snippets.gif)
+
 A handy snippets for swift programming on XCode.
 
 ## List of Snippets
