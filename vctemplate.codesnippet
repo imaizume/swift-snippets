@@ -9,14 +9,14 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    /// MARK: - Properties
+	<string>    // MARK: - Properties
     // MARK: IBOutlet
 
     // MARK: Internal
 
     // MARK: File private
 
-    /// MARK: - Lifecycle
+    // MARK: - Lifecycle
     override func viewDidLoad() {
         super.viewDidLoad()
         self.setupViews()
@@ -25,49 +25,43 @@
 
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-
     }
 
     override func viewWillLayoutSubviews() {
         super.viewWillLayoutSubviews()
-
     }
 
     override func viewDidLayoutSubviews() {
         super.viewDidLayoutSubviews()
         self.setupSubviews()
-
     }
 
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
-
     }
 
     override func viewWillDisappear(_ animated: Bool) {
         super.viewWillDisappear(animated)
-
     }
 
     override func viewDidDisappear(_ animated: Bool) {
         super.viewDidDisappear(animated)
-        
     }
 
-    /// MARK: - Methods
+    // MARK: - Methods
 
     // MARK: Internal
 
     // MARK: File private
-    func setupViews() {
+    fileprivate func setupViews() {
         // Initialize view object e.g. hidden property
     }
 
-    func setupActions() {
+    fileprivate func setupActions() {
         // Initialize action e.g. touch event
     }
 
-    func setupSubviews() {
+    fileprivate func setupSubviews() {
         // Initialize view object depends on subview layout e.g. cornerRadius
     }</string>
 	<key>IDECodeSnippetIdentifier</key>
