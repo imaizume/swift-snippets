@@ -17,6 +17,10 @@
     // MARK: File private
 
     // MARK: - Lifecycle
+    override func loadView() {
+        super.loadView()
+    }
+
     override func viewDidLoad() {
         super.viewDidLoad()
         self.setupViews()
