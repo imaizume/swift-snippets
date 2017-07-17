@@ -14,15 +14,15 @@
     // MARK: Internal
 
     // MARK: File private
-    func setupViews() {
+    fileprivate func setupViews() {
         // Initialize view object e.g. hidden property
     }
 
-    func setupActions() {
+    fileprivate func setupActions() {
         // Initialize action e.g. touch event
     }
 
-    func setupSubviews() {
+    fileprivate func setupSubviews() {
         // Initialize view object depends on subview layout e.g. cornerRadius
     }
 </string>
