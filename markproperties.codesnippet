@@ -12,9 +12,9 @@
 	<string>/// MARK: - Properties
 // MARK: IBOutlet
 
-// MARK: Internal
+// MARK: internal
 
-// MARK: File private</string>
+// MARK: fileprivate</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>92C05F39-3250-4057-ABE6-C91DF7622EF9</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -12,9 +12,9 @@
 	<string>    // MARK: - Properties
     // MARK: IBOutlet
 
-    // MARK: Internal
+    // MARK: internal
 
-    // MARK: File private
+    // MARK: fileprivate
 
     // MARK: - Lifecycle
     override func loadView() {
@@ -54,9 +54,9 @@
 
     // MARK: - Methods
 
-    // MARK: Internal
+    // MARK: internal
 
-    // MARK: File private
+    // MARK: fileprivate
     fileprivate func setupViews() {
         // Initialize view object e.g. hidden property
     }
