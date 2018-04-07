@@ -9,11 +9,11 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/// MARK: - Methods
+	<string>// MARK: - Methods
 
-// MARK: Internal
+// MARK: internal
 
-// MARK: File private</string>
+// MARK: fileprivate</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>893799EB-3EC1-4C69-B459-84940BD4CE80</string>
 	<key>IDECodeSnippetLanguage</key>
