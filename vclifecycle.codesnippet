@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    // MARK: - Lifecycle
+	<string>    // MARK: Lifecycle
     override func viewDidLoad() {
         super.viewDidLoad()
     }
