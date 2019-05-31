@@ -10,21 +10,23 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>    // MARK: - Properties
+
     // MARK: IBOutlet
 
     // MARK: internal
 
     // MARK: fileprivate
 
-    // MARK: Lifecycle
+    // MARK: - Methods
+
+    // MARK: lifecycle
+
     override func loadView() {
         super.loadView()
     }
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.setupViews()
-        self.setupActions()
     }
 
     override func viewWillAppear(_ animated: Bool) {
@@ -37,7 +39,6 @@
 
     override func viewDidLayoutSubviews() {
         super.viewDidLayoutSubviews()
-        self.setupSubviews()
     }
 
     override func viewDidAppear(_ animated: Bool) {
@@ -52,22 +53,10 @@
         super.viewDidDisappear(animated)
     }
 
-    // MARK: - Methods
-
     // MARK: internal
 
     // MARK: fileprivate
-    fileprivate func setupViews() {
-        // Initialize view object e.g. hidden property
-    }
-
-    fileprivate func setupActions() {
-        // Initialize action e.g. touch event
-    }
-
-    fileprivate func setupSubviews() {
-        // Initialize view object depends on subview layout e.g. cornerRadius
-    }</string>
+</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>409B3B3E-4711-4852-85F6-7CCA57B7865C</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -79,6 +68,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

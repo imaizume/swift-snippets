@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>markcontract</string>
+	<string>markoutput</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: &lt;# protocol #&gt;Contract</string>
+	<string>// MARK: &lt;# protocol #&gt;Output</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>757A6049-ED45-470F-A141-64760215D6EC</string>
+	<string>17854231-BE2E-4172-B38C-0CB55FA9B0B6</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>MARK Contract</string>
+	<string>MARK Output</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>MARK Contract</string>
+	<string>MARK Output</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

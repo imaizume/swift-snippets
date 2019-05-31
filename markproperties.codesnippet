@@ -9,7 +9,8 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/// MARK: - Properties
+	<string>// MARK: - Properties
+
 // MARK: IBOutlet
 
 // MARK: internal
@@ -26,6 +27,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
